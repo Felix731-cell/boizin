@@ -1,1 +1,2 @@
-C++ hack ad termux commands 
+C++ hack ad termux commands repository 
+
